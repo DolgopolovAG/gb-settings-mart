@@ -1,0 +1,13 @@
+gb.api:
+  endpoint:
+    manufacturer-url: 'http://${gb.api.endpoint.base-uri}/api/v1/manufacturer'
+  connection:
+    connectTimeout: 60 # Seconds
+    readTimeout: 10 # Seconds
+    period: 3000 # Millis
+    maxPeriod: 5000 # Millis
+    maxAttempts: 3
+spring.datasource:
+  url: "jdbc:postgresql://10.3.0.182:5432/gb_shop"
+  username: 'gb_shop'
+  password: 'gb_shop'
