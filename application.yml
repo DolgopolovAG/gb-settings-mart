@@ -9,6 +9,6 @@ gb.api:
     maxAttempts: 3
 spring.datasource:
   url: "jdbc:postgresql://10.3.0.182:5432/gb_shop"
-  username: 'gb_shop'
-  password: 'gb_shop'
+  username: '{cipher}AQCfMJxnXhEqQsL0nIsKnbrYZZhI+EhgXaedpc5hwKWQ49M9E+WnmxPQzi4P3vS0Hc8ykGmvuLXsR9QUu5ddGWj5ZBuzUK7LS2AUSKKmc1Kqst6rTW/J6CG/NVd190LR5TJScw+qjUaBSLTiJEeMf57G/GDqxFceddwZedvoEkWGmIoFMjn1zTBCmnoptWyLqBy4z57QAAiz4eSv0ZpyZwvOmtHVCRDY4rvO2qd8VHakpEGQQDpTVtQql2VAJqtr3j7LVPE3uDpxjMXTtjYVBpYkQgDxohj26smtSrW44jrWWiwnC819WX8llrIb+i7SvRj6MgQDL+/RHV9+mbMXHM+DqhY2VqshazwzfKKmCucoNE0Hld9KbGIreMDBg0NW4Os='
+  password: '{cipher}AQCfMJxnXhEqQsL0nIsKnbrYZZhI+EhgXaedpc5hwKWQ49M9E+WnmxPQzi4P3vS0Hc8ykGmvuLXsR9QUu5ddGWj5ZBuzUK7LS2AUSKKmc1Kqst6rTW/J6CG/NVd190LR5TJScw+qjUaBSLTiJEeMf57G/GDqxFceddwZedvoEkWGmIoFMjn1zTBCmnoptWyLqBy4z57QAAiz4eSv0ZpyZwvOmtHVCRDY4rvO2qd8VHakpEGQQDpTVtQql2VAJqtr3j7LVPE3uDpxjMXTtjYVBpYkQgDxohj26smtSrW44jrWWiwnC819WX8llrIb+i7SvRj6MgQDL+/RHV9+mbMXHM+DqhY2VqshazwzfKKmCucoNE0Hld9KbGIreMDBg0NW4Os='
   driver-class-name: 'org.postgresql.Driver'
